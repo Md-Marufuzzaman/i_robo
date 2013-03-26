@@ -1,0 +1,7 @@
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\bin\Debug\mz_AppFramework_v1.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\bin\Debug\mz_AppFramework_v1.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\bin\Debug\ExceptionServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\bin\Debug\ExceptionServiceObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\obj\Debug\mz_AppFramework_v1.csprojResolveAssemblyReference.cache
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\obj\Debug\mz_AppFramework_v1.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\mz_AppFramework_v1\obj\Debug\mz_AppFramework_v1.pdb

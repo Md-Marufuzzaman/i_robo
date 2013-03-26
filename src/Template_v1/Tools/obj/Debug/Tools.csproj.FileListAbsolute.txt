@@ -1,0 +1,5 @@
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\Tools\bin\Debug\Tools.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\Tools\bin\Debug\Tools.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\Tools\obj\Debug\Tools.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\Tools\obj\Debug\Tools.pdb

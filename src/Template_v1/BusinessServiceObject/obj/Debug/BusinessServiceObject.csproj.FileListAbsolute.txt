@@ -1,0 +1,15 @@
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\obj\Debug\BusinessServiceObject.csprojResolveAssemblyReference.cache
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\BusinessServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\BusinessServiceObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\CommonServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\DataAccessObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\DataModelObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\mz_AppFramework_v1.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\ExceptionServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\CommonServiceObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\DataAccessObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\DataModelObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\mz_AppFramework_v1.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\bin\Debug\ExceptionServiceObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\obj\Debug\BusinessServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\BusinessServiceObject\obj\Debug\BusinessServiceObject.pdb

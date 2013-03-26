@@ -1,0 +1,4 @@
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\SecurityServiceObject\bin\Debug\SecurityServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\SecurityServiceObject\bin\Debug\SecurityServiceObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\SecurityServiceObject\obj\Debug\SecurityServiceObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\SecurityServiceObject\obj\Debug\SecurityServiceObject.pdb

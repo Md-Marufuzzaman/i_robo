@@ -1,0 +1,5 @@
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\DataModelObject\bin\Debug\DataModelObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\DataModelObject\bin\Debug\DataModelObject.pdb
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\DataModelObject\obj\Debug\DataModelObject.csprojResolveAssemblyReference.cache
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\DataModelObject\obj\Debug\DataModelObject.dll
+D:\iroborock.com\github\i_robo_v1\src\Template_v1\DataModelObject\obj\Debug\DataModelObject.pdb
